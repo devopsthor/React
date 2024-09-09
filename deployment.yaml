@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: recatappcontainer
-    image: dockerpandian/todo-react
+    image: ramganesh418/sep9
     ports:
       - containerPort: 80
 ---
